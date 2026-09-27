@@ -35,7 +35,7 @@ sql-data-warehouse-project/
 ├── tests/
 ├── README.md
 └── LICENSE
-
+```
 ## What I'm Learning
 - Data warehouse architecture
 - ETL
