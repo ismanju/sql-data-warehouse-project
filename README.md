@@ -14,6 +14,8 @@ Bronze → Silver → Gold
 🚧 In Progress
 
 ## Project Structure
+
+```text
 sql-data-warehouse-project/
 │
 ├── datasets/
@@ -31,7 +33,6 @@ sql-data-warehouse-project/
 │   └── gold/
 │
 ├── tests/
-│
 ├── README.md
 └── LICENSE
 
